@@ -1,0 +1,47 @@
+.rise-enabled {
+    background-color: #ffffff !important;
+    border-top: 30px #919191 solid;
+    border-bottom: 30px #919191 solid;
+}
+
+.your_turn {
+    color: #a15a95;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.rendered_html h1 {
+    color: #68ACE5;
+}
+
+.new_term {
+    color: #009B77;
+    font-weight: bold;
+}
+
+.rendered_html h2, .rendered_html h3 {
+    color: #002D72;
+}
+
+.rendered_html h4 {
+    color: #76232F;
+}
+
+.rendered_html table, .rendered_html th, .rendered_html tr, .rendered_html td {
+    font-size: 100%;
+}
+
+.container.slides .celltoolbar, .container.slides .hide-in-slideshow {
+    display: None ! important;
+}
+
+a {
+    color: #0072CE ! important;
+    text-decoration: none ! important;
+}
+
+p, li {
+    font-size:24px;
+    margin-bottom: 0px;    
+    margin-top: 0px;        
+}
